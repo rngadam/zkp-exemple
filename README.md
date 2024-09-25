@@ -25,7 +25,7 @@ et
 
 ## fonction non-réversible
 
- facile à calculée, il n'est pas possible de trouver la variable d'entrée puisque la valeur vient d'un restant d'une division i.e. modulo
+ facile à calculée, il est difficile de trouver la variable d'entrée puisque la valeur vient d'un restant d'une division i.e. modulo
 
 ```
 f(x) = g ** x % p
